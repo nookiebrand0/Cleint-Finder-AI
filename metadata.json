@@ -1,0 +1,6 @@
+{
+  "name": "AI Client Hunter",
+  "description": "An AI-powered tool to find freelance clients, generate target audiences, and create custom outreach messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
